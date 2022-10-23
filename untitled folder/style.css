@@ -1,0 +1,51 @@
+
+body{
+  margin: 0px;
+}
+.logo {
+
+  width: 100%;
+  background: rgb(221, 255, 161);
+  background: linear-gradient(1deg, rgba(221, 255, 161, 1) 0%, rgba(23, 89, 0, 1) 100%);
+  text-transform: capitalize;
+  text-align: center;
+  padding: 30px;
+  color: white;
+
+
+}
+
+
+
+.navbar{
+  position: sticky;
+  top: 0px;
+  margin-top: 1em;
+
+  background-color: green;
+  
+  text-transform: capitalize;
+  text-align: center;
+  color: white;
+
+
+}
+.Pnavbar{
+  padding: 10px;
+}
+.mainlorem {
+  text-align: center;
+}
+
+
+.first-footer{
+  margin: 0px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: purple;
+  color: white;
+  padding: 1px;
+  text-transform: capitalize;
+}
